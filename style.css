@@ -1,0 +1,41 @@
+body{
+    background-color: antiquewhite;
+}
+.fig{
+    background-color: #d64545;
+    padding-right: 50px;
+}
+.imjj{
+    border-radius: 30px;
+    text-align: center;
+    padding-left: 500px;
+}
+.fit{
+    text-align: center;
+    font-weight: 2000;
+    font-size: x-large;
+    font-family: 'Courier New', Courier, monospace;
+}
+.fitc{
+    text-align: justify;
+    font-size: x-large;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 200;
+    margin-left: 200px;
+    
+}
+.fi{
+    font-size: x-large;
+    font-style: italic;
+    font-family: sans-serif;
+    font-weight: 200;
+    text-align: center;
+}
+.fore{
+    font-size: x-large;
+}
+.life{
+    font-size: x-large;
+    font-family: 'Times New Roman', Times, serif;
+}
